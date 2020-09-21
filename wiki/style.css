@@ -1,0 +1,27 @@
+h1 {
+	color: rgb(235, 208, 6);
+}
+h2 {
+	color: rgb(225, 98, 14);
+}
+h3 {
+	color: rgb(235, 208, 6);
+}
+h4 {
+	color: rgb(225, 98, 6);
+}
+ol {
+	background-color: rgb(84, 211, 252);
+	width: 200px
+}
+.r {
+	color: rgb(80,200,250);
+	width: 1200px
+}
+.first {
+	width: 1200px 
+}
+
+.second {
+	width: 1200px
+}
