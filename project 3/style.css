@@ -1,7 +1,7 @@
 .all{
 	transform: scale(.5);
 	position: absolute;
-	left: 200px;
+	left: 150px;
 }
 .r1 {
 	width: 250px;
@@ -25,6 +25,7 @@
 }
 .r2:hover {
 	background-color: rgb(200,50,100);
+	transform: rotate(45deg);
 }
 .r3 {
 	position: absolute;
@@ -39,6 +40,7 @@
 }
 .r3:hover {
 	border-left-color: rgb(200,50,100);
+	transform: rotate(45deg);
 }
 .a1 {
 	position: absolute;
@@ -52,7 +54,8 @@
 
 }
 .a1:hover {
-	border-bottom-color: rgb(200, 50, 100);: 
+	border-bottom-color: rgb(200, 50, 100);
+	transform: rotate(45deg); 
 }
 .alla {
 	position: absolute;
@@ -70,6 +73,7 @@
 }
 .n1:hover {
 	background-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .n1 {
 	width: 50px;
@@ -81,6 +85,7 @@
 }
 .n2:hover {
 	border-top-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .n2 {
 position: absolute;
@@ -95,10 +100,11 @@ position: absolute;
 }
 .n3:hover {
 	border-top-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .n3 { 
 	position: absolute;
-	top: 300px;
+	top: 295px;
 	left: 900px;
 	width: 0;
 	height: 0;
@@ -110,6 +116,7 @@ position: absolute;
  }
  .n4:hover {
  	background-color: rgb(200, 50, 100);
+ 	transform: rotate(45deg);
  }
 .n4 {
 	width: 50px;
@@ -121,6 +128,7 @@ position: absolute;
 }
 .g1:hover {
 	background-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .g1{
 	width: 50px;
@@ -133,6 +141,7 @@ position: absolute;
 }
 .g2:hover {
 	border-bottom-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .g2{
 	position: absolute;
@@ -146,6 +155,7 @@ position: absolute;
 }
 .g3:hover {
 	border-bottom-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .g3{
 	position: absolute;
@@ -160,6 +170,7 @@ position: absolute;
 }
 .g4:hover {
 	background-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .g4{
 	width: 50px;
@@ -172,6 +183,7 @@ position: absolute;
 }
 .g5:hover {
 	background-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .g5{
 	width: 120px;
@@ -184,6 +196,7 @@ position: absolute;
 }
 .e1:hover {
 	background-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .e1{
 	width: 50px;
@@ -195,6 +208,7 @@ position: absolute;
 }
 .e2:hover {
 	border-bottom-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .e2{
 	position: absolute;
@@ -209,6 +223,7 @@ position: absolute;
 }
 .e3:hover {
 	border-bottom-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .e3{
 	position: absolute;
@@ -223,6 +238,7 @@ position: absolute;
 }
 .e4:hover {
 	border-bottom-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .e4{
 	position: absolute;
@@ -244,18 +260,20 @@ position: absolute;
 }
 .s1:hover {
 	background-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .s1{
-	width: 130px;
-	height: 130px;
+	width: 140px;
+	height: 140px;
 	border-radius: 50%;
 	background-color: rgb(260, 200, 180); ;
 	position: absolute;
 	top: 415px;
-	left: 1905px ;
+	left: 1900px ;
 }
 .s2:hover {
 	background-color: rgb(200,50,100);
+	transform: rotate(45deg);
 }
 .s2{
 	width: 50px;
@@ -268,6 +286,7 @@ position: absolute;
 }
 .s3:hover {
 	background-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .s3{
 	width: 50px;
@@ -280,6 +299,7 @@ position: absolute;
 }
 .s4:hover {
 	background-color: rgb(200, 50, 100);
+	transform: rotate(45deg);
 }
 .s4{
 	width: 130px;
@@ -290,13 +310,17 @@ position: absolute;
 	top: 150px;
 	left: 2000px ;
 }
+.alls{
+	position: absolute;
+	top: 20px;
+}
 p {
 width: 900px;
 font-family: Helvetica;
 font-size: 30px;
 line-height: 50px;
 position: absolute; 
-top: 400px;
-left: 300px;
+top: 300px;
+left: 250px;
 transform: scale(.5);
 }
