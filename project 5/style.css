@@ -1,0 +1,26 @@
+h1 {
+	font-family: 'Press Start 2P', cursive;
+	font-size: 50px;
+	position: absolute;
+	top: 150px;
+	left: 250px;
+}
+h2 {
+	font-family: 'Press Start 2P', cursive;
+	font-size: 30px;
+	position: absolute;
+	top: 350px;
+	left: 450px;
+}
+.background {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-image: url("vhs.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+}
