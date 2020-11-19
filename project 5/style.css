@@ -5,12 +5,58 @@ h1 {
 	top: 150px;
 	left: 250px;
 }
-h2 {
+a {
 	font-family: 'Press Start 2P', cursive;
 	font-size: 30px;
 	position: absolute;
 	top: 350px;
 	left: 450px;
+	text-decoration: none; 
+}
+h2 {
+	font-family: 'Press Start 2P', cursive;
+	font-size: 30px;
+	position: absolute;
+	top: 10px;
+	left: 600px;
+}
+.light {
+	font-family: 'Press Start 2P', cursive;
+	font-size: 30px;
+	position: absolute;
+	top: 90px;
+	left: 350px;
+	text-decoration: none; 
+	color: rgb(300,200,30);
+}
+.dark {
+	font-family: 'Press Start 2P', cursive;
+	font-size: 30px;
+	position: absolute;
+	top: 90px;
+	left: 650px;
+	text-decoration: none;
+}
+.color {
+	font-family: 'Press Start 2P', cursive;
+	font-size: 30px;
+	position: absolute;
+	top: 90px;
+	left: 900px;
+	text-decoration: none;
+	color: red
+}
+.light:visited {
+	color: rgb(300,200,30);
+}
+.dark:visited {
+	color: none;
+}
+.color:visited {
+	color: red;
+}
+a:visited {
+	color: black;
 }
 .background {
 	position: absolute;
@@ -23,4 +69,1328 @@ h2 {
 	background-position: center;
 	background-size: cover;
 }
+.vhs1 {
+	position: absolute;
+	top: 100px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 }
+.vhs1:hover {
+	background-image: url(vhs.jpg);
+	position: absolute;
+	top: 100px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs2 {
+	position: absolute;
+	top: 100px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs2:hover {
+	position: absolute;
+	top: 100px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs3 {
+	position: absolute;
+	top: 100px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs3:hover {
+	position: absolute;
+	top: 100px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs4 {
+	position: absolute;
+	top: 100px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront4.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs4:hover {
+	position: absolute;
+	top: 100px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs4.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs5 {
+	position: absolute;
+	top: 100px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront5.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs5:hover {
+	position: absolute;
+	top: 100px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs5.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs6 {
+	position: absolute;
+	top: 100px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront6.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs6:hover {
+	position: absolute;
+	top: 100px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs6.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs7 {
+	position: absolute;
+	top: 500px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront7.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs7:hover {
+	position: absolute;
+	top: 500px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs7.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs8 {
+	position: absolute;
+	top: 500px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront8.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs8:hover {
+	position: absolute;
+	top: 500px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs8.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs9 {
+	position: absolute;
+	top: 500px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront9.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs9:hover {
+	position: absolute;
+	top: 500px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs9.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs10 {
+	position: absolute;
+	top: 500px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront10.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs10:hover {
+	position: absolute;
+	top: 500px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs10.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs11 {
+	position: absolute;
+	top: 500px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront11.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs11:hover {
+	position: absolute;
+	top: 500px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs11.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs12 {
+	position: absolute;
+	top: 500px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront12.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs12:hover {
+	position: absolute;
+	top: 500px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs12.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs13 {
+	position: absolute;
+	top: 900px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront13.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs13:hover {
+	position: absolute;
+	top: 900px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs13.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs14 {
+	position: absolute;
+	top: 900px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront14.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs14:hover {
+	position: absolute;
+	top: 900px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs14.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs15 {
+	position: absolute;
+	top: 900px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront15.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs15:hover {
+	position: absolute;
+	top: 900px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs15.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs16 {
+	position: absolute;
+	top: 900px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront16.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs16:hover {
+	position: absolute;
+	top: 900px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs16.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs17 {
+	position: absolute;
+	top: 900px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront17.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs17:hover {
+	position: absolute;
+	top: 900px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs17.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs18 {
+	position: absolute;
+	top: 900px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront18.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs18:hover {
+	position: absolute;
+	top: 900px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs18.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs19 {
+	position: absolute;
+	top: 1300px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront19.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs19:hover {
+	position: absolute;
+	top: 1300px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs19.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs20 {
+	position: absolute;
+	top: 1300px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront20.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs20:hover {
+	position: absolute;
+	top: 1300px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs20.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs21 {
+	position: absolute;
+	top: 1300px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront21.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs21:hover {
+	position: absolute;
+	top: 1300px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs21.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs22 {
+	position: absolute;
+	top: 1300px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront22.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs22:hover {
+	position: absolute;
+	top: 1300px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs22.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs23 {
+	position: absolute;
+	top: 1300px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront23.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs23:hover {
+	position: absolute;
+	top: 1300px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs23.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs24 {
+	position: absolute;
+	top: 1300px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront24.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs24:hover {
+	position: absolute;
+	top: 1300px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs24.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs25 {
+	position: absolute;
+	top: 1700px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront25.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs25:hover {
+	position: absolute;
+	top: 1700px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs25.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs26 {
+	position: absolute;
+	top: 1700px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront26.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs26:hover {
+	position: absolute;
+	top: 1700px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs26.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs27 {
+	position: absolute;
+	top: 1700px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront27.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs27:hover {
+	position: absolute;
+	top: 1700px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs27.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs28 {
+	position: absolute;
+	top: 1700px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront28.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs28:hover {
+	position: absolute;
+	top: 1700px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs28.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs29 {
+	position: absolute;
+	top: 1700px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront29.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs29:hover {
+	position: absolute;
+	top: 1700px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs29.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs30 {
+	position: absolute;
+	top: 1700px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront30.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.vhs30:hover {
+	position: absolute;
+	top: 1700px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs30.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white1 {
+	position: absolute;
+	top: 100px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white1:hover {
+	position: absolute;
+	top: 100px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white2 {
+	position: absolute;
+	top: 100px;
+	left: 320px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white2:hover {
+	position: absolute;
+	top: 100px;
+	left: 320px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white3 {
+	position: absolute;
+	top: 100px;
+	left: 620px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront4.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white3:hover {
+	position: absolute;
+	top: 100px;
+	left: 620px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs4.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white4 {
+	position: absolute;
+	top: 100px;
+	left: 930px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront15.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white4:hover {
+	position: absolute;
+	top: 100px;
+	left: 930px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs15.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+ }
+.white5 {
+	position: absolute;
+	top: 100px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront17.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white5:hover {
+	position: absolute;
+	top: 100px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs17.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white6 {
+	position: absolute;
+	top: 500px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront21.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white6:hover {
+	position: absolute;
+	top: 500px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs21.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white7 {
+	position: absolute;
+	top: 500px;
+	left: 320px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront24.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white7:hover {
+	position: absolute;
+	top: 500px;
+	left: 320px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs24.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white8 {
+	position: absolute;
+	top: 500px;
+	left: 620px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white8:hover {
+	position: absolute;
+	top: 500px;
+	left: 620px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white9 {
+	position: absolute;
+	top: 500px;
+	left: 930px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront13.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white9:hover {
+	position: absolute;
+	top: 500px;
+	left: 930px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs13.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white10 {
+	position: absolute;
+	top: 500px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront20.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.white10:hover {
+	position: absolute;
+	top: 500px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs20.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark1 {
+	position: absolute;
+	top: 100px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront5.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark1:hover {
+	position: absolute;
+	top: 100px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs5.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark2 {
+	position: absolute;
+	top: 100px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront10.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark2:hover {
+	position: absolute;
+	top: 100px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs10.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark3 {
+	position: absolute;
+	top: 100px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront11.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark3:hover {
+	position: absolute;
+	top: 100px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs11.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark4 {
+	position: absolute;
+	top: 100px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront18.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark4:hover {
+	position: absolute;
+	top: 100px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs18.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark5 {
+	position: absolute;
+	top: 100px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront19.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark5:hover {
+	position: absolute;
+	top: 100px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs19.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark6 {
+	position: absolute;
+	top: 100px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront22.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark6:hover {
+	position: absolute;
+	top: 100px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs22.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark7 {
+	position: absolute;
+	top: 500px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront23.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark7:hover {
+	position: absolute;
+	top: 500px;
+	left: 40px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs23.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark8 {
+	position: absolute;
+	top: 500px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront25.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark8:hover {
+	position: absolute;
+	top: 500px;
+	left: 300px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs25.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark9 {
+	position: absolute;
+	top: 500px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront26.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark9:hover {
+	position: absolute;
+	top: 500px;
+	left: 560px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs26.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark10 {
+	position: absolute;
+	top: 500px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront27.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark10:hover {
+	position: absolute;
+	top: 500px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs27.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark11 {
+	position: absolute;
+	top: 500px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront29.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark11:hover {
+	position: absolute;
+	top: 500px;
+	left: 1030px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs29.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark12 {
+	position: absolute;
+	top: 500px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront30.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.dark12:hover {
+	position: absolute;
+	top: 500px;
+	left: 1250px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs30.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color1 {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront6.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color1:hover {
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs6.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color2 {
+	position: absolute;
+	top: 100px;
+	left: 440px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront7.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color2:hover {
+	position: absolute;
+	top: 100px;
+	left: 440px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs7.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color3 {
+	position: absolute;
+	top: 100px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront8.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color3:hover {
+	position: absolute;
+	top: 100px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs8.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color4 {
+	position: absolute;
+	top: 100px;
+	left: 1180px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront9.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color4:hover {
+	position: absolute;
+	top: 100px;
+	left: 1180px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs9.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color5 {
+	position: absolute;
+	top: 500px;
+	left: 100px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront12.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color5:hover {
+	position: absolute;
+	top: 500px;
+	left: 100px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs12.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color6 {
+	position: absolute;
+	top: 500px;
+	left: 440px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront14.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color6:hover {
+	position: absolute;
+	top: 500px;
+	left: 440px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs14.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color7 {
+	position: absolute;
+	top: 500px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront16.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color7:hover {
+	position: absolute;
+	top: 500px;
+	left: 800px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs16.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color8 {
+	position: absolute;
+	top: 500px;
+	left: 1180px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhsfront28.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.color8:hover {
+	position: absolute;
+	top: 500px;
+	left: 1180px;
+	width: 150px;
+	height: 300px;
+	background-image: url(vhs28.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.all {
+	position: absolute;
+	top: 100px;
+}
+
