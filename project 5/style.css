@@ -12,6 +12,7 @@ a {
 	top: 350px;
 	left: 450px;
 	text-decoration: none; 
+	color: black;
 }
 h2 {
 	font-family: 'Press Start 2P', cursive;
@@ -22,7 +23,7 @@ h2 {
 }
 .light {
 	font-family: 'Press Start 2P', cursive;
-	font-size: 30px;
+	font-size: 20px;
 	position: absolute;
 	top: 90px;
 	left: 350px;
@@ -31,18 +32,19 @@ h2 {
 }
 .dark {
 	font-family: 'Press Start 2P', cursive;
-	font-size: 30px;
+	font-size: 20px;
 	position: absolute;
 	top: 90px;
-	left: 650px;
+	left: 660px;
 	text-decoration: none;
+	color: blue;
 }
 .color {
 	font-family: 'Press Start 2P', cursive;
-	font-size: 30px;
+	font-size: 20px;
 	position: absolute;
 	top: 90px;
-	left: 900px;
+	left: 950px;
 	text-decoration: none;
 	color: red
 }
@@ -50,7 +52,7 @@ h2 {
 	color: rgb(300,200,30);
 }
 .dark:visited {
-	color: none;
+	color: blue;
 }
 .color:visited {
 	color: red;
@@ -1390,6 +1392,18 @@ a:visited {
 	background-size: cover;
 }
 .all {
+	position: absolute;
+	top: 100px;
+}
+.alllight {
+	position: absolute;
+	top: 100px;
+}
+.alldark {
+	position: absolute;
+	top: 100px;
+}
+.allcolor {
 	position: absolute;
 	top: 100px;
 }
