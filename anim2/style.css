@@ -1,3 +1,8 @@
+.bombwhole {
+	position: absolute;
+	bottom: 300px;
+	left: 140px;
+}
 .bomb {
 	position: absolute;
 	bottom: 30px;
